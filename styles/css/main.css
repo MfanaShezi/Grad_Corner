@@ -128,4 +128,39 @@
     font-size: 0.9rem;
     color: #777;
   }
+
+  .job-portals {
+    background-color: #0a0f2c;
+    padding: 60px 20px;
+    text-align: center;
+    color: #b0eaff;
+    font-family: 'Orbitron', sans-serif;
+  }
+  
+  .job-portals h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+    color: #00cfff;
+    text-shadow: 0 0 10px #00cfff;
+  }
+  
+  .portals a {
+    display: inline-block;
+    margin: 10px 20px;
+    color: #00cfff;
+    font-size: 1.1rem;
+    text-decoration: none;
+    border: 1px solid #00cfff;
+    padding: 10px 20px;
+    border-radius: 8px;
+    transition: 0.3s ease;
+    box-shadow: 0 0 8px rgba(0, 207, 255, 0.3);
+  }
+  
+  .portals a:hover {
+    background-color: #00cfff;
+    color: #020621;
+    box-shadow: 0 0 20px #00cfff;
+  }
+  
   
